@@ -1,5 +1,6 @@
 import React from "react";
 import "./Navbar.css";
+import profile from '../assets/profile.jpg';
 import {
   FaSearch,
   FaHeart,
@@ -36,7 +37,7 @@ const Navbar = () => {
               <span>2</span>
             </div>
             <img
-              src="https://i.pravatar.cc/40"
+              src={profile}
               alt="profile"
               className="profile"
             />
