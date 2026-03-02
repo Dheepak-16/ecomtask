@@ -4,10 +4,7 @@ import heroImage from "../assets/banner1.png";
 
 const Home = () => {
   return (
-    <section
-      className="hero"
-      style={{ backgroundImage: `url(${heroImage})` }}
-    >
+    <section className="hero" style={{ backgroundImage: `url(${heroImage})` }}>
       <div className="overlay">
         <div className="container">
           <div className="row">

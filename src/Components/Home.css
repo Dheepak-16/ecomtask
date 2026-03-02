@@ -1,10 +1,12 @@
 .hero {
+  /* border: 2px solid black; */
   height: 90vh;
   background-size: cover;
   background-position: center;
 }
 
 .overlay {
+  /* border: 2px solid yellow; */
   height: 100%;
   background: rgba(0, 0, 0, 0.45);
   display: flex;
@@ -12,10 +14,12 @@
 }
 
 .hero-text {
+  /* border: 2px solid white; */
   color: white;
 }
 
 .tag {
+  /* border: 2px solid black; */
   color: #22c55e;
   font-size: 14px;
   letter-spacing: 2px;
@@ -23,6 +27,7 @@
 }
 
 .hero-text h1 {
+  /* border: 2px solid black; */
   font-size: 64px;
   line-height: 1.1;
   margin: 20px 0;
@@ -33,12 +38,14 @@
 }
 
 .hero-text p {
+  /* border: 2px solid black; */
   font-size: 18px;
   margin-bottom: 30px;
   color: #ddd;
 }
 
 .hero-buttons {
+  /* border: 2px solid red; */
   display: flex;
   gap: 20px;
 }

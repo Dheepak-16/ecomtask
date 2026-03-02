@@ -1,26 +1,18 @@
 import React from "react";
 import "./Footer.css";
-import {
-  FaFacebookF,
-  FaInstagram,
-  FaTwitter,
-  FaApple,
-  FaGooglePlay
-} from "react-icons/fa";
+import { FaFacebookF, FaInstagram, FaTwitter, FaApple, FaGooglePlay } from "react-icons/fa";
 
 const Footer = () => {
   return (
     <footer className="footer">
       <div className="container">
-
         <div className="footer-grid">
-
           <div className="footer-col">
             <div className="logo">
               <div className="logo-box">🛍</div>
               <h3>ECommerce</h3>
             </div>
-
+            
             <p className="footer-text">
               Crafting the future of retail with a focus on quality,
               sustainability, and effortless style. Join over 50k happy

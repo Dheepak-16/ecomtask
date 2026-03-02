@@ -25,7 +25,7 @@ const Navbar = () => {
               <li>Men</li>
               <li>Women</li>
               <li>Accessories</li>
-              <li className="sale">Sale</li>
+              <li className="sale-sale">Sale</li>
             </ul>
           </div>
 

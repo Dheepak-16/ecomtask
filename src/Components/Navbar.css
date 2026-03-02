@@ -1,20 +1,24 @@
 .navbar {
+  /* border: 2px solid black; */
   background: #f3f3f3;
   padding: 15px 0;
 }
 
 .container {
+  /* border: 2px solid black; */
   width: 90%;
   margin: auto;
 }
 
 .navbar-row {
+  /* border: 2px solid green; */
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
 .logo-col {
+  /* border: 2px solid black; */
   display: flex;
   align-items: center;
   gap: 10px;
@@ -22,6 +26,7 @@
 }
 
 .logo-box {
+  /* border: 2px solid red; */
   background: #22c55e;
   padding: 8px;
   border-radius: 8px;
@@ -29,27 +34,31 @@
 }
 
 .logo-col h2 {
+  /* border: 2px solid green; */
   color: #22c55e;
   font-weight: 600;
 }
 
 .nav-links {
+  /* border: 2px solid orange; */
   flex: 2;
   display: flex;
   justify-content: center;
 }
 
 .nav-links ul {
+  /* border: 2px solid green; */
   display: flex;
   gap: 35px;
   list-style: none;
 }
 
-.sale {
-  color: red;
+.sale-sale {
+  color: red; 
 }
 
 .nav-icons {
+  /* border: 2px solid black; */
   flex: 1;
   display: flex;
   justify-content: flex-end;
@@ -58,10 +67,12 @@
 }
 
 .cart {
+  /* border: 2px solid red; */
   position: relative;
 }
 
 .cart span {
+  /* border: 2px solid black; */
   position: absolute;
   top: -6px;
   right: -8px;
@@ -73,6 +84,7 @@
 }
 
 .profile {
+  /* border: 2px solid red; */
   width: 35px;
   height: 35px;
   border-radius: 50%;

@@ -1,21 +1,25 @@
 .footer {
+  /* border: 2px solid yellowgreen; */
   background: #0f172a;
   color: #cbd5e1;
   padding: 70px 0;
 }
 
 .container {
+  /* border: 2px solid red; */
   width: 92%;
   margin: auto;
 }
 
 .footer-grid {
+  /* border: 2px solid orange; */
   display: grid;
   grid-template-columns: 1.5fr 1fr 1fr 1.2fr;
   gap: 50px;
 }
 
 .logo {
+  /* border: 2px solid white; */
   display: flex;
   align-items: center;
   gap: 10px;
@@ -23,6 +27,7 @@
 }
 
 .logo-box {
+  /* border: 2px solid red; */
   background: #22c55e;
   padding: 8px;
   border-radius: 10px;
@@ -30,21 +35,25 @@
 }
 
 .logo h3 {
+  /* border: 2px solid brown; */
   color: white;
 }
 
 .footer-text {
+  /* border: 2px solid goldenrod; */
   font-size: 14px;
   line-height: 1.7;
   margin-bottom: 20px;
 }
 
 .social-icons {
+  /* border: 2px solid yellow; */
   display: flex;
   gap: 12px;
 }
 
 .social-icons span {
+  /* border: 2px solid blueviolet; */
   width: 36px;
   height: 36px;
   background: #1e293b;
@@ -62,15 +71,18 @@
 }
 
 .footer-col h4 {
+  /* border: 2px solid greenyellow; */
   color: white;
   margin-bottom: 20px;
 }
 
 .footer-col ul {
+  /* border: 2px solid orangered; */
   list-style: none;
 }
 
 .footer-col ul li {
+  /* border: 2px solid whitesmoke; */
   margin-bottom: 12px;
   font-size: 14px;
   cursor: pointer;
@@ -82,17 +94,20 @@
 }
 
 .small-text {
+  /* border: 2px solid orchid; */
   font-size: 13px;
   margin-bottom: 20px;
 }
 
 .app-buttons {
+  /* border: 2px solid burlywood; */
   display: flex;
   flex-direction: column;
   gap: 15px;
 }
 
 .app-btn {
+  /* border: 2px solid red; */
   background: #1e293b;
   padding: 12px 15px;
   border-radius: 10px;

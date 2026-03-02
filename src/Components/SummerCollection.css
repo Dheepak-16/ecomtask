@@ -1,9 +1,10 @@
-/* .summer-section {
+.summer-section {
   padding: 60px 0;
-  background: #f3f4f6;
-} */
+  /* background: #f3f4f6; */
+}
 
 .summer-banner {
+  /* border: 2px solid black; */
   width: 92%;
   margin: auto;
   height: 420px;
@@ -15,18 +16,17 @@
 }
 
 .dark-overlay {
+  /* border: 2px solid red; */
   position: absolute;
   inset: 0;
   background: linear-gradient(
-    to right,
-    rgba(55, 65, 81, 0.95) 0%,
-    rgba(55, 65, 81, 0.9) 35%,
-    rgba(55, 65, 81, 0.6) 55%,
+    to right, rgba(55, 65, 81, 0.95) 0%, rgba(55, 65, 81, 0.9) 35%, rgba(55, 65, 81, 0.6) 55%,
     transparent 75%
   );
 }
 
 .banner-content {
+  /* border: 2px solid blue; */
   position: absolute;
   top: 50%;
   left: 80px;
@@ -37,6 +37,7 @@
 }
 
 .tag {
+  /* border: 2px solid violet; */
   color: #22c55e;
   font-size: 14px;
   letter-spacing: 3px;
@@ -45,6 +46,7 @@
 }
 
 .banner-content h2 {
+  /* border: 2px solid orange; */
   font-size: 44px;
   font-weight: 700;
   margin-bottom: 25px;
@@ -52,6 +54,7 @@
 }
 
 .banner-content p {
+  /* border: 2px solid orangered; */
   color: #e5e7eb;
   margin-bottom: 35px;
   line-height: 1.7;
