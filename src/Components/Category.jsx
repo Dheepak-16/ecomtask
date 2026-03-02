@@ -25,7 +25,6 @@ const Category = () => {
         </div>
 
         <div className="category-grid">
-
           <div className="category-item">
             <div className="circle">
               <img src={shirt} alt="Shirts" />
